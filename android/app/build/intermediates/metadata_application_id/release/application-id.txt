@@ -1,0 +1,1 @@
+com.get_detail_api
